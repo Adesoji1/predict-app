@@ -1,0 +1,8 @@
+1. This project is intended to createan http endpoint where a user passes in a plant leaf and a prediction is done to state the health and type of leaf over an http end point locally with the aid of flask development server and the trio(html,css,javascript) of web technology. 
+***Note javascript web code is not provided here and it hasn't be prepared at the time of this readme**** 
+
+2.  ***requirements** required python libraries must be installed at pypi.org
+
+3. The pipeline contains python files containing required library to make the python code run. Thiid found in app_helper.py
+
+4. The app.py runs the flask aplication for making predictions.
